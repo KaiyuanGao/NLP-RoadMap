@@ -1,11 +1,19 @@
 # NLP-RoadMap
 
+##### 持续更新中。以下内容有错误或者不足，欢迎提Issue或者联系我讨论
+
+##### 整理不易，希望点个小星星 :star2::star2::star2: ​支持下呀！
+
 
 
 
 |         前言         |             数理基础             |     编程基础    |        机器学习        |               深度学习               | 自然语言处理  |         AI资源         | AI工具 | 后记 |
 | :------------------------: | :------------------------------: | :--------------------: | :--------------------: | :----------------------------------: | :----------------------: | :----------------------: | :--------------------------: | :--------------------------: |
 | [:sunflower:](#sunflower-前言) | [:four_leaf_clover:](#four_leaf_clover-数理基础) | [:deciduous_tree:](#deciduous_tree-编程基础) | [:evergreen_tree:](#evergreen_tree-机器学习) | [:cactus:](#cactus-深度学习) | [:cherry_blossom:](#cherry_blossom-自然语言处理) | [:maple_leaf:](#maple_leaf-AI资源) |   [:palm_tree:](#palm_tree-AI工具)   |   [:seedling:](#seedling-后记)     |
+
+
+
+------
 
 
 
@@ -16,6 +24,8 @@ The last thing you figure out in writing something is what to put first.
 
 
 > 持续更新中。以下内容有错误或者不足，欢迎提Issue或者联系我讨论
+>
+> 
 
 ## :four_leaf_clover: 数理基础
 
@@ -37,7 +47,7 @@ The last thing you figure out in writing something is what to put first.
 - 算法基础
 - 推荐资料
 
-
+![](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%E8%B7%AF%E7%BA%BF%E5%9B%BE%20%40kaiyuan.png)
 
 
 
@@ -65,7 +75,7 @@ The last thing you figure out in writing something is what to put first.
 
 #### 保存
 
-
+![https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE%20%40kaiyuan.png](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/机器学习路线图 %40kaiyuan.png)
 
 ## :cactus: 深度学习
 
@@ -83,13 +93,23 @@ The last thing you figure out in writing something is what to put first.
 - 深度学习框架
 - 讨论
 
-
+![https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE%40kaiyuan.png](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/ 深度学习路线图%40kaiyuan.png)
 
 ## :cherry_blossom: 自然语言处理
 
+- 基础
+  - Tokenization
+  - Embedding
+  - Encoder
+  - Decoder
+- 任务 & 模型
+- 应用
+  - 搜索
+  - 推荐
+  - 知识图谱
+- 推荐资料
 
-
-
+![https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%20NLP%E8%B7%AF%E7%BA%BF%E5%9B%BE%20%40kaiyuan.png](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/ NLP路线图 %40kaiyuan.png)
 
 ## :maple_leaf: AI资源
 
