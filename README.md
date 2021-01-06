@@ -75,7 +75,7 @@ The last thing you figure out in writing something is what to put first.
 
 #### 保存
 
-![https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE%20%40kaiyuan.png](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/机器学习路线图 %40kaiyuan.png)
+![](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE%20%40kaiyuan.png)
 
 ## :cactus: 深度学习
 
@@ -93,7 +93,7 @@ The last thing you figure out in writing something is what to put first.
 - 深度学习框架
 - 讨论
 
-![https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE%40kaiyuan.png](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/ 深度学习路线图%40kaiyuan.png)
+![](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE%40kaiyuan.png)
 
 ## :cherry_blossom: 自然语言处理
 
@@ -109,7 +109,7 @@ The last thing you figure out in writing something is what to put first.
   - 知识图谱
 - 推荐资料
 
-![https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%20NLP%E8%B7%AF%E7%BA%BF%E5%9B%BE%20%40kaiyuan.png](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/ NLP路线图 %40kaiyuan.png)
+![](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%20NLP%E8%B7%AF%E7%BA%BF%E5%9B%BE%20%40kaiyuan.png)
 
 ## :maple_leaf: AI资源
 
