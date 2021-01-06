@@ -28,7 +28,7 @@ The last thing you figure out in writing something is what to put first.
 - 信息论
 - 推荐资料
 
-![]([https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%20%40kaiyuan.png](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/数理基础 %40kaiyuan.png))
+![](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%20%40kaiyuan.png)
 
 ## :deciduous_tree: 编程基础
 
