@@ -9,7 +9,7 @@
 
 |         前言         |             数理基础             |     编程基础    |        机器学习        |               深度学习               | 自然语言处理  |         AI资源         | AI工具 | 后记 |
 | :------------------------: | :------------------------------: | :--------------------: | :--------------------: | :----------------------------------: | :----------------------: | :----------------------: | :--------------------------: | :--------------------------: |
-| [:sunflower:](#sunflower-前言（Introduction）) | [:four_leaf_clover:](#four_leaf_clover-数理基础（Mathematic）) | [:deciduous_tree:](#deciduous_tree-编程基础（Coding）) | [:evergreen_tree:](#evergreen_tree-机器学习（Machine Learning）) | [:cactus:](#cactus-深度学习（Deep Learning）) | [:cherry_blossom:](#cherry_blossom-自然语言处理（Natural Language Processing）) | [:maple_leaf:](#maple_leaf-AI资源（AI-Resources）) |   [:palm_tree:](#palm_tree-AI工具（AI-Tools）)   |   [:seedling:](#seedling-后记（Say something）)     |
+| [:sunflower:](#sunflower-前言）) | [:four_leaf_clover:](#four_leaf_clover-数理基础) | [:deciduous_tree:](#deciduous_tree-编程基础) | [:evergreen_tree:](#evergreen_tree-机器学习) | [:cactus:](#cactus-深度学习) | [:cherry_blossom:](#cherry_blossom-自然语言处理) | [:maple_leaf:](#maple_leaf-AI资源) |   [:palm_tree:](#palm_tree-AI工具)   |   [:seedling:](#seedling-后记)     |
 
 
 
@@ -17,13 +17,13 @@
 
 
 
-## :sunflower: 前言（Introduction）
+## :sunflower: 前言
 
 The last thing you figure out in writing something is what to put first.
 
 
 
-## :four_leaf_clover: 数理基础（Mathematic）
+## :four_leaf_clover: 数理基础
 
 排版清晰考虑，以下只列出一级分层的主题，具体内容请点击超链查看。
 
@@ -36,7 +36,7 @@ The last thing you figure out in writing something is what to put first.
 
 ![](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%20%40kaiyuan.png)
 
-## :deciduous_tree: 编程基础（Coding）
+## :deciduous_tree: 编程基础
 
 - 编程语言
 - 数据结构
@@ -47,7 +47,7 @@ The last thing you figure out in writing something is what to put first.
 
 
 
-## :evergreen_tree: 机器学习（Machine Learning）
+## :evergreen_tree: 机器学习
 
 机器学习部分以一个完整的项目来整理，希望大家从真实应用中学习。（目前更新了模型部分，其他部分doing）
 
@@ -73,7 +73,7 @@ The last thing you figure out in writing something is what to put first.
 
 ![](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE%20%40kaiyuan.png)
 
-## :cactus: 深度学习（Deep Learning）
+## :cactus: 深度学习
 
 - NN网络
   - DNN
@@ -91,7 +91,7 @@ The last thing you figure out in writing something is what to put first.
 
 ![](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE%40kaiyuan.png)
 
-## :cherry_blossom: 自然语言处理（Natural Language Processing）
+## :cherry_blossom: 自然语言处理
 
 - 基础
   - Tokenization
@@ -107,7 +107,7 @@ The last thing you figure out in writing something is what to put first.
 
 ![](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%20NLP%E8%B7%AF%E7%BA%BF%E5%9B%BE%20%40kaiyuan.png)
 
-## :maple_leaf: AI 资源（AI-Resources）
+## :maple_leaf: AI 资源
 
 整理互联网上公开的AI相关学习资源，包括但不限于 `书籍教材`、`课程视频`、`优质文章` 等形式，包括但不限于 `机器学习`、`深度学习`、`自然语言处理`、`计算机视觉`、`推荐搜索`、`语音识别`、`图神经网络`、`时间序列`  等主题。
 
@@ -119,13 +119,13 @@ The last thing you figure out in writing something is what to put first.
 
 > 注：如涉及**侵权**，请及时联系删除，谢谢！
 
-## :palm_tree: AI 工具（AI-Tools）
+## :palm_tree: AI 工具
 
 
 
 
 
-## :seedling: 后记（Say something）
+## :seedling: 后记
 
 - 一般会在周末更新，请不要着急
 - 如果想要贡献内容或转载内容，欢迎与我交流（wechat：『kaiyuanaa』）
