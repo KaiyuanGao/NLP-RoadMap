@@ -9,7 +9,7 @@
 
 |         前言         |             数理基础             |     编程基础    |        机器学习        |               深度学习               | 自然语言处理  |         AI资源         | AI工具 | 后记 |
 | :------------------------: | :------------------------------: | :--------------------: | :--------------------: | :----------------------------------: | :----------------------: | :----------------------: | :--------------------------: | :--------------------------: |
-| [:sunflower:](#sunflower-前言) | [:four_leaf_clover:](#four_leaf_clover-数理基础) | [:deciduous_tree:](#deciduous_tree-编程基础) | [:evergreen_tree:](#evergreen_tree-机器学习) | [:cactus:](#cactus-深度学习) | [:cherry_blossom:](#cherry_blossom-自然语言处理) | [:maple_leaf:](#maple_leaf-AI资源) |   [:palm_tree:](#palm_tree-AI工具)   |   [:seedling:](#seedling-后记)     |
+| [:sunflower:](#sunflower-前言（Introduction）) | [:four_leaf_clover:](#four_leaf_clover-数理基础（Mathematic）) | [:deciduous_tree:](#deciduous_tree-编程基础（Coding）) | [:evergreen_tree:](#evergreen_tree-机器学习（Machine Learning）) | [:cactus:](#cactus-深度学习（Deep Learning）) | [:cherry_blossom:](#cherry_blossom-自然语言处理（Natural Language Processing）) | [:maple_leaf:](#maple_leaf-AI资源（AI-Resources）) |   [:palm_tree:](#palm_tree-AI工具（AI-Tools）)   |   [:seedling:](#seedling-后记（Say something）)     |
 
 
 
@@ -116,6 +116,8 @@ The last thing you figure out in writing something is what to put first.
 #### [宝藏在这儿！（updating）](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/docs/AI-Resources.md)
 
 
+
+> 注：如涉及**侵权**，请及时联系删除，谢谢！
 
 ## :palm_tree: AI 工具（AI-Tools）
 
