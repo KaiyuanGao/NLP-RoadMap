@@ -23,9 +23,11 @@ The last thing you figure out in writing something is what to put first.
 
 
 
+> 排版清晰考虑，以下只列出一级分层的主题，具体内容请点击超链查看。
+
 ## :four_leaf_clover: 数理基础
 
-排版清晰考虑，以下只列出一级分层的主题，具体内容请点击超链查看。
+数学是整个AI学习的基础，但对于一般的机器学习从业者而言，数学知识基本在上完大学四年就足够用了。当然，数学是属于多多益善的那种，了解得越多越深入，那么当你在遇到问题时，就会有更多的思考角度和解决问题的方案。
 
 - 线性代数
 - 概率统计
@@ -38,6 +40,8 @@ The last thing you figure out in writing something is what to put first.
 
 ## :deciduous_tree: 编程基础
 
+经常说的一句话，『算法工程师首先要是一个工程师』。你只有掌握扎实的coding技能，才能生存下去，慢慢打怪升级。
+
 - 编程语言
 - 数据结构
 - 算法基础
@@ -49,7 +53,7 @@ The last thing you figure out in writing something is what to put first.
 
 ## :evergreen_tree: 机器学习
 
-机器学习部分以一个完整的项目来整理，希望大家从真实应用中学习。（目前更新了模型部分，其他部分doing）
+机器学习部分以一个完整的项目来整理，从真实应用中学习。（目前更新了模型部分，其他部分doing）
 
 #### 数据
 
