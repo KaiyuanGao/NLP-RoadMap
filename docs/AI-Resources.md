@@ -1,6 +1,10 @@
 # AI-Resources
 
-整理一些资源，持续更新，记得star喔！
+整理互联网上公开的AI相关学习资源，包括但不限于 `书籍教材`、`课程视频`、`优质文章` 等形式，包括但不限于 `机器学习`、`深度学习`、`自然语言处理`、`计算机视觉`、`推荐搜索`、`语音识别`、`图神经网络`、`时间序列` 等主题。
+
+
+
+持续更新中... 
 
 
 
@@ -26,6 +30,12 @@
 | [机器学习路线图](https://pan.baidu.com/s/1AU4c4L6tdqVs7NITuLKf0w) | krv4 |
 | [《机器学习基础(第二版)》](https://cs.nyu.edu/~mohri/mlbook/) |      |
 |     [机器学习算法](https://feisky.xyz/machine-learning/)     |      |
+| [《斯坦福 统计学习基础》](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) |      |
+| [【机器学习进阶课程大列表】](https://www.reddit.com/r/MachineLearning/comments/fdw0ax/d_advanced_courses_update/) |      |
+| [哈佛《CS50 Python人工智能入门》课程 ](https://cs50.harvard.edu/ai/) |      |
+| [蒂宾根大学《概率机器学习》课程(2020)](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd) |      |
+| [【康奈尔大学《机器学习金融应用》课程资料】](http://www.quantresearch.org/Lectures.htm) |      |
+| [佐治亚理工“机器学习数学基础”课程(2020)](https://jrom.ece.gatech.edu/mfml-f20/) |      |
 |                                                              |      |
 
 
@@ -44,11 +54,11 @@
 | [Pytorch官方教程中文版](https://pan.baidu.com/s/1juLG0_3q7OWIi_ckEQ69Xw) | il72 |
 |        [fast.ai深度学习实战](https://course.fast.ai/)        |      |
 | [AI算法工程师手册](https://link.zhihu.com/?target=http%3A//www.huaxiaozhuan.com/)--包含数学基础、机器学习、深度学习、计算机视觉和NLP等知识 |      |
-|                                                              |      |
-|                                                              |      |
-|                                                              |      |
-|                                                              |      |
-|                                                              |      |
+|     [深度学习理论讲义](https://mjt.cs.illinois.edu/dlt/)     |      |
+| [ULiège大学深度学习课程讲义(600+页PPT)](https://github.com/glouppe/info8010-deep-learning) |      |
+| [【慕尼黑理工大学《深度学习导论》课程(2020)】](https://niessner.github.io/I2DL/) |      |
+| [机器学习与深度学习导论](https://sebastianraschka.com/blog/2020/intro-to-dl-ch01.html) |      |
+| [【Amazon的免费在线机器学习课程：自然语言处理、计算机视觉、表格数据处理】](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university) |      |
 |                                                              |      |
 |                                                              |      |
 |                                                              |      |
