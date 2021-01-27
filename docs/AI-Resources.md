@@ -53,7 +53,7 @@
 | [Tensorflow深度学习](https://pan.baidu.com/s/1VOqine7ibrWaeCNCOt93_Q) | wv5t |
 | [Pytorch官方教程中文版](https://pan.baidu.com/s/1juLG0_3q7OWIi_ckEQ69Xw) | il72 |
 |        [fast.ai深度学习实战](https://course.fast.ai/)        |      |
-| [AI算法工程师手册](https://link.zhihu.com/?target=http%3A//www.huaxiaozhuan.com/)--包含数学基础、机器学习、深度学习、计算机视觉和NLP等知识 |      |
+| [AI算法工程师手册--包含数学基础、机器学习、深度学习、计算机视觉和NLP等知识](https://link.zhihu.com/?target=http%3A//www.huaxiaozhuan.com/) |      |
 |     [深度学习理论讲义](https://mjt.cs.illinois.edu/dlt/)     |      |
 | [ULiège大学深度学习课程讲义(600+页PPT)](https://github.com/glouppe/info8010-deep-learning) |      |
 | [【慕尼黑理工大学《深度学习导论》课程(2020)】](https://niessner.github.io/I2DL/) |      |
@@ -69,19 +69,39 @@
 
 ## 自然语言处理
 
-| 资源 | 密码 |
-| :--: | :--: |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+|                             资源                             | 密码 |
+| :----------------------------------------------------------: | :--: |
+|  [斯坦福CS224N课程](http://web.stanford.edu/class/cs224n/)   |      |
+| [nlp圣经：Speech and Language Processing(3rd)](https://pan.baidu.com/s/1kzzR7bTHqpFJG2GO-_OToA) | b3bs |
+| [台湾大学李宏毅深度学习与人类语言处理课程](https://pan.baidu.com/s/11QowdQBtnJi2H4m2QZZvzg) | 29j0 |
+| [【deeplearning.ai：自然语言处理专项课程(Coursera)】](https://www.coursera.org/specializations/natural-language-processing) |      |
+| [东南大学《知识图谱》研究生课程](https://github.com/npubird/KnowledgeGraphCourse) |      |
+| [清华刘知远：Representation Learning for Natural Language Processing](https://pan.baidu.com/s/1TNuUDU8lQurkTO4Q6iyQ6w) | miat |
+| [Natural Language Processing with Python](https://pan.baidu.com/s/1SO98F1STDnr1Djm0fvTYZQ) | nrif |
+| [宗成庆：统计自然语言处理](https://pan.baidu.com/s/1wQes3rBpvguG4MTdqTva5w) | 9dp0 |
+| [用python进行自然语言处理（中文版）](https://pan.baidu.com/s/1NYmzYr3dnbh7cJ9LC563yQ) | rc62 |
+| [机器翻译：统计建模与深度学习方法](https://pan.baidu.com/s/1DDToEeBIi6sGyGutxvQekA) | jnr1 |
+| [CMU-神经网络自然语言处理](http://phontron.com/class/nn4nlp2020/schedule.html#) |      |
+| [CMU-多语言自然语言处理](http://demo.clab.cs.cmu.edu/11737fa20/) |      |
+| [Embeddings in NaturalLanguage Processing](https://pan.baidu.com/s/19KzYv4vVjsLIZVGxi7ySaw) | v83k |
+| [BERT源码分析完整PDF](https://pan.baidu.com/s/1T9ZF053OS9ABa3r2dpHukA) | ec59 |
+| [EMNLP_2020_Tutorial__High_Performance_NLP](http://gabrielilharco.com/publications/EMNLP_2020_Tutorial__High_Performance_NLP.pdf) |      |
+| [南京大学：知识图谱融合方法](https://pan.baidu.com/s/1Ubi5ltkidkugN436xlmO9Q) | sm7b |
+|                                                              |      |
+|                                                              |      |
+|                                                              |      |
+
+## 图神经网络
+
+|                             资源                             | 密码 |
+| :----------------------------------------------------------: | :--: |
+| [清华Liuzhiyuan：Introduction to Graph Neural Networks](https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1519&osCsid=p3nth2odsokcakm7pukg6rsq92) |      |
+| [图表示学习 Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) |      |
+|  [汤继良：图深度学习](http://cse.msu.edu/~mayao4/dlg_book/)  |      |
+| [AAAI2020:：tutorial_GNN](https://drive.google.com/file/d/1rvm6Yq6-Ss4UmxLDIPTReJJkAdcXdhFb/view) |      |
+| [唐杰-图神经网络及认知推理](https://www.bilibili.com/video/av77934956?from=search&seid=6134263793308325331) |      |
+| [斯坦福：CS224W，机器学习与图](http://web.stanford.edu/class/cs224w/) |      |
+| [清华大学：GNN必读论文](https://github.com/thunlp/GNNPapers#survey-papers) |      |
+| [Advancements in Graph Neural Networks: PGNNs, Pretraining, and OGB](http://i.stanford.edu/~jure/pub/talks2/graphsage2-pgnn-pretraining-ogb-apr20-short.pdf) |      |
+|                                                              |      |
 
