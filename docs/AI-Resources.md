@@ -3,10 +3,11 @@
 - 整理互联网上公开的AI相关学习资源，包括但不限于 `书籍教材`、`课程视频`、`优质文章` 等形式，包括但不限于 `机器学习`、`深度学习`、`自然语言处理`、`计算机视觉`、`推荐搜索`、`语音识别`、`图神经网络`、`时间序列` 等主题。
 
 - 慢慢地内容会越来越多，善用 `CTRL+F` 
+- 对了，如若有内容资源涉及侵权，请**务必及时**联系我删除
 
 - 持续更新中... 
 
-
+  
 
 ## 机器学习
 
@@ -37,6 +38,7 @@
 | [【康奈尔大学《机器学习金融应用》课程资料】](http://www.quantresearch.org/Lectures.htm) |      |
 | [佐治亚理工“机器学习数学基础”课程(2020)](https://jrom.ece.gatech.edu/mfml-f20/) |      |
 | [AI算法工程师手册--包含数学基础、机器学习、深度学习、计算机视觉和NLP等知识](https://link.zhihu.com/?target=http%3A//www.huaxiaozhuan.com/) |      |
+| [东北大学：中文综述文章列表（自然语言处理&机器学习）](https://github.com/NiuTrans/CNSurvey) |      |
 
 
 
@@ -88,7 +90,7 @@
 | [EMNLP_2020_Tutorial__High_Performance_NLP](http://gabrielilharco.com/publications/EMNLP_2020_Tutorial__High_Performance_NLP.pdf) |      |
 | [南京大学：知识图谱融合方法](https://pan.baidu.com/s/1Ubi5ltkidkugN436xlmO9Q) | sm7b |
 | [复旦邱锡鹏：“语言+X”预训练模型：融合结构化知识和跨模态信息](https://pan.baidu.com/s/1f81xXe4ekC06eKWDbWov8A) | 67jr |
-|                                                              |      |
+| [东北大学：中文综述文章列表（自然语言处理&机器学习）](https://github.com/NiuTrans/CNSurvey) |      |
 | [AI算法工程师手册--包含数学基础、机器学习、深度学习、计算机视觉和NLP等知识](https://link.zhihu.com/?target=http%3A//www.huaxiaozhuan.com/) |      |
 
 ## 图神经网络
