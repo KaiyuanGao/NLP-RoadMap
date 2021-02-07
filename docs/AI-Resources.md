@@ -1,10 +1,10 @@
 # AI-Resources
 
-整理互联网上公开的AI相关学习资源，包括但不限于 `书籍教材`、`课程视频`、`优质文章` 等形式，包括但不限于 `机器学习`、`深度学习`、`自然语言处理`、`计算机视觉`、`推荐搜索`、`语音识别`、`图神经网络`、`时间序列` 等主题。
+- 整理互联网上公开的AI相关学习资源，包括但不限于 `书籍教材`、`课程视频`、`优质文章` 等形式，包括但不限于 `机器学习`、`深度学习`、`自然语言处理`、`计算机视觉`、`推荐搜索`、`语音识别`、`图神经网络`、`时间序列` 等主题。
 
+- 慢慢地内容会越来越多，善用 `CTRL+F` 
 
-
-持续更新中... 
+- 持续更新中... 
 
 
 
@@ -36,7 +36,7 @@
 | [蒂宾根大学《概率机器学习》课程(2020)](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd) |      |
 | [【康奈尔大学《机器学习金融应用》课程资料】](http://www.quantresearch.org/Lectures.htm) |      |
 | [佐治亚理工“机器学习数学基础”课程(2020)](https://jrom.ece.gatech.edu/mfml-f20/) |      |
-|                                                              |      |
+| [AI算法工程师手册--包含数学基础、机器学习、深度学习、计算机视觉和NLP等知识](https://link.zhihu.com/?target=http%3A//www.huaxiaozhuan.com/) |      |
 
 
 
@@ -84,12 +84,12 @@
 | [CMU-神经网络自然语言处理](http://phontron.com/class/nn4nlp2020/schedule.html#) |      |
 | [CMU-多语言自然语言处理](http://demo.clab.cs.cmu.edu/11737fa20/) |      |
 | [Embeddings in NaturalLanguage Processing](https://pan.baidu.com/s/19KzYv4vVjsLIZVGxi7ySaw) | v83k |
-| [BERT源码分析完整PDF](https://pan.baidu.com/s/1T9ZF053OS9ABa3r2dpHukA) | ec59 |
+| [NewBeeNLP：BERT源码分析完整PDF](https://pan.baidu.com/s/1T9ZF053OS9ABa3r2dpHukA) | ec59 |
 | [EMNLP_2020_Tutorial__High_Performance_NLP](http://gabrielilharco.com/publications/EMNLP_2020_Tutorial__High_Performance_NLP.pdf) |      |
 | [南京大学：知识图谱融合方法](https://pan.baidu.com/s/1Ubi5ltkidkugN436xlmO9Q) | sm7b |
+| [复旦邱锡鹏：“语言+X”预训练模型：融合结构化知识和跨模态信息](https://pan.baidu.com/s/1f81xXe4ekC06eKWDbWov8A) | 67jr |
 |                                                              |      |
-|                                                              |      |
-|                                                              |      |
+| [AI算法工程师手册--包含数学基础、机器学习、深度学习、计算机视觉和NLP等知识](https://link.zhihu.com/?target=http%3A//www.huaxiaozhuan.com/) |      |
 
 ## 图神经网络
 
@@ -103,5 +103,19 @@
 | [斯坦福：CS224W，机器学习与图](http://web.stanford.edu/class/cs224w/) |      |
 | [清华大学：GNN必读论文](https://github.com/thunlp/GNNPapers#survey-papers) |      |
 | [Advancements in Graph Neural Networks: PGNNs, Pretraining, and OGB](http://i.stanford.edu/~jure/pub/talks2/graphsage2-pgnn-pretraining-ogb-apr20-short.pdf) |      |
+|                                                              |      |
+
+## 推荐系统
+
+|                             资源                             | 备注 |
+| :----------------------------------------------------------: | :--: |
+| [Coursera推荐系统专项](https://www.coursera.org/specializations/recommender-systems) |      |
+| [Recommender Systems: The Textbook](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf) |      |
+| [Recommender Systems An Introduction](https://github.com/singmiya/recsys/raw/master/Recommender Systems An Introduction.pdf) |      |
+| [Recommender Systems Handbook 1st Edition](https://www.cse.iitk.ac.in/users/nsrivast/HCC/Recommender_systems_handbook.pdf) |      |
+| [Recommender Systems Handbook 2nd Edition](https://edyaaleh.files.wordpress.com/2016/02/recommendersystemshandbook.pdf) |      |
+| [张俊林：推荐系统技术演进趋势：从召回到排序再到重排](https://zhuanlan.zhihu.com/p/100019681) |      |
+|                                                              |      |
+|                                                              |      |
 |                                                              |      |
 
