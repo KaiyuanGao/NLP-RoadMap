@@ -111,7 +111,7 @@
 | :----------------------------------------------------------: | :--: |
 | [Coursera推荐系统专项](https://www.coursera.org/specializations/recommender-systems) |      |
 | [Recommender Systems: The Textbook](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf) |      |
-| [Recommender Systems An Introduction](https://github.com/singmiya/recsys/raw/master/Recommender Systems An Introduction.pdf) |      |
+| [Recommender Systems An Introduction](https://github.com/singmiya/recsys/raw/master/RecommenderSystems%20An%20Introduction.pdf) |      |
 | [Recommender Systems Handbook 1st Edition](https://www.cse.iitk.ac.in/users/nsrivast/HCC/Recommender_systems_handbook.pdf) |      |
 | [Recommender Systems Handbook 2nd Edition](https://edyaaleh.files.wordpress.com/2016/02/recommendersystemshandbook.pdf) |      |
 | [张俊林：推荐系统技术演进趋势：从召回到排序再到重排](https://zhuanlan.zhihu.com/p/100019681) |      |
