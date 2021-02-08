@@ -57,6 +57,13 @@ The last thing you figure out in writing something is what to put first.
 
 #### 数据
 
+- 数据来源
+- 数据类型
+- 数据探索
+- 数据处理
+- 特征选择
+- 数据划分
+
 #### 模型
 
 - 线性回归
@@ -73,7 +80,12 @@ The last thing you figure out in writing something is what to put first.
 
 #### 训练
 
-#### 保存
+- 损失函数
+- 优化器
+- 评价指标
+- 调参细节
+
+#### 保存&部署
 
 ![](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE%20%40kaiyuan.png)
 
