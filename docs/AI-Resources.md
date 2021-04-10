@@ -61,7 +61,7 @@
 | [【慕尼黑理工大学《深度学习导论》课程(2020)】](https://niessner.github.io/I2DL/) |      |
 | [机器学习与深度学习导论](https://sebastianraschka.com/blog/2020/intro-to-dl-ch01.html) |      |
 | [【Amazon的免费在线机器学习课程：自然语言处理、计算机视觉、表格数据处理】](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university) |      |
-|                                                              |      |
+|  [MIT深度学习课程 6.S191](http://introtodeeplearning.com/)   |      |
 |                                                              |      |
 |                                                              |      |
 |                                                              |      |
