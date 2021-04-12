@@ -23,7 +23,7 @@ The last thing you figure out in writing something is what to put first.
 
 
 
-> 排版清晰考虑，以下只列出一级分层的主题，具体内容请点击超链查看。
+> 排版清晰考虑，以下只列出一级分层的主题，具体内容请点击 [这里](https://github.com/KaiyuanGao/NLP-RoadMap/tree/master/docs) 查看。
 
 ## :four_leaf_clover: 数理基础
 
@@ -53,7 +53,7 @@ The last thing you figure out in writing something is what to put first.
 
 ## :evergreen_tree: 机器学习
 
-机器学习部分以一个完整的项目来整理，从真实应用中学习。（目前更新了模型部分，其他部分doing）
+机器学习部分以一个完整的项目来整理，从真实应用中学习。
 
 #### 数据
 
@@ -117,8 +117,8 @@ The last thing you figure out in writing something is what to put first.
 - 任务 & 模型
 - 应用
   - 搜索
+  - 广告
   - 推荐
-  - 知识图谱
 - 推荐资料
 
 ![](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/pics/%20NLP%E8%B7%AF%E7%BA%BF%E5%9B%BE%20%40kaiyuan.png)
