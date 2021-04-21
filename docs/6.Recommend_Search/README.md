@@ -2,7 +2,7 @@
 
 自己之前一直是在做NLP相关的，到工作以后才发现NLP简直就是一个『打工仔』，最终应用还得是搜广推，真实too young！这里就记录一些关于工业界在搜索、广告以及推荐领域相关的实践，以及一些论文的阅读笔记，keep reading！
 
-#### 领域综述
+### 领域综述
 
 关于综述首先查看 【[AI-Surveys](https://github.com/KaiyuanGao/AI-Surveys) 】这个项目，里面整理了ML/DL/CV/NLP/Graph等多个AI相关领域的综述。
 
@@ -16,29 +16,29 @@
 - [A Deep Look into neural ranking models for information retrieval](https://arxiv.org/abs/1903.06902) 
 - [A Comparison of Supervised Learning to Match Methods for Product Search](https://arxiv.org/abs/2007.10296)
 
-#### 召回
+### 召回
 
-###### 传统模型
+#### 传统模型
 
 - 具体模型以及解读全都整理在：[**【匹配】Learning-to-Match**](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/docs/4.Natural_Language_Processing/4.4-Text_Matching/[匹配]Learning-to-Match.md)
 
-###### Transformer-based 模型
+##### Transformer-based 模型
 
 - 【ICLR 2020】PRE-TRAINING TASKS FOR EMBEDDING-BASED LARGE-SCALE RETRIEVAL.  [[论文](https://arxiv.org/abs/2002.03932)] [[解读]()]
-- 【SIGIR 2020】Eicient and Eective Passage Search via Contextualized Late Interaction over BERT. [[论文](https://arxiv.org/abs/2004.12832)] [[笔记](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/docs/6.Recommend_Search/ColBERT.md)]
+- 【SIGIR 2020】ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT. [[论文](https://arxiv.org/abs/2004.12832)] [[笔记](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/docs/6.Recommend_Search/ColBERT.md)]
 - DC-BERT: DECOUPLING QUESTION AND DOCUMENT FOR EFFICIENT CONTEXTUAL ENCODING. [[论文](https://arxiv.org/abs/2002.12591)] [[笔记](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/docs/6.Recommend_Search/DC-BERT%E7%AC%94%E8%AE%B0.md)]
 - 【ICLR 2020】Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring. [[论文](https://arxiv.org/abs/1905.01969)] [[笔记](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/docs/6.Recommend_Search/Poly-Encoder笔记.md)]
 - 【KDD 20】Embedding-based Retrieval in Facebook Search. [[论文](https://arxiv.org/abs/2006.11632)] [[笔记](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/docs/6.Recommend_Search/Facebook向量化检索.md)]
 
-#### 排序
+### 排序
 
+- 
 
+### 多模态检索
 
-#### 多模态检索
+- 
 
-
-
-#### 业界实践分享 
+### 业界实践分享 
 
 - [MOBIUS：百度凤巢新一代广告召回系统](https://mp.weixin.qq.com/s/2Vr3jQB4RGi2mbIkMMn1mQ)
 - [从表示到匹配的语义计算之旅 | ArchSummit](https://www.infoq.cn/video/S5BEM3wyGS3BzqypJ6kE)
