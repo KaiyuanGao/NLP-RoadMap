@@ -8,12 +8,12 @@
 
 - [Semantic Matching in Search](http://www.hangli-hl.com/uploads/3/4/4/6/34465961/ml_for_match-step2.pdf)
 - [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/pdf/2010.06467.pdf)
-
 - [A Deep Look into Neural Ranking Models for Information Retrieval](https://arxiv.org/pdf/1903.06902.pdf)
 - [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/pdf/2010.06467.pdf)
 - [An Introduction to Neural Information Retrieval](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/fntir2018-neuralir-mitra.pdf)
 - [A Deep Look into neural ranking models for information retrieval](https://arxiv.org/abs/1903.06902) 
 - [A Comparison of Supervised Learning to Match Methods for Product Search](https://arxiv.org/abs/2007.10296)
+- [深度文本匹配综述](http://cjc.ict.ac.cn/online/onlinepaper/pl-201745181647.pdf)
 
 ### 召回
 
