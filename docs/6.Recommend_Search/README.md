@@ -31,7 +31,12 @@
 - REALM: Retrieval-Augmented Language Model Pre-Training. [[论文](https://arxiv.org/abs/2002.08909)] [[笔记](https://mp.weixin.qq.com/s/6V1HYNPA3qIyKwcQmdRSbw)]
 - RepBERT: Contextualized Text Embeddings for First-Stage Retrieval.  [[论文](https://arxiv.org/abs/2006.15498)] [[笔记](https://mp.weixin.qq.com/s/6V1HYNPA3qIyKwcQmdRSbw)]
 - RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering. [[论文](https://arxiv.org/abs/2010.08191)] [[笔记](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/docs/4.Natural_Language_Processing/4.13-Question_Answering/RocketQA.md)]
-- 
+
+#### 多兴趣召回
+
+- PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest. [[论文](https://arxiv.org/abs/2007.03634)] [[笔记]()]
+- Multi-Interest Network with Dynamic Routing for Recommendation at Tmall. [[论文](https://arxiv.org/pdf/1904.08030.pdf)] [[笔记]()]
+- Controllable Multi-Interest Framework for Recommendation. [[论文](https://arxiv.org/pdf/1904.08030.pdf)] [[笔记]()]
 
 ### 排序
 
@@ -109,8 +114,6 @@
 
 - [阿里巴巴首次揭秘电商知识图谱AliCoCo！淘宝搜索原来这样玩！](https://mp.weixin.qq.com/s/GnEGHMoGJEBVBhhHljqAzA)
 
-  
-
 ##### 知乎
 
 - [知乎搜索框背后的Query理解和语义召回技术](https://mp.weixin.qq.com/s/4Ns0qbE9d8KZRjFaSUXvRQ)
@@ -120,6 +123,7 @@
 
 - [爱奇艺深度语义表示学习的探索与实践](https://mp.weixin.qq.com/s/f524bPx0pq7qxXGjpa7WCQ)
 - [爱奇艺搜索排序模型迭代之路](https://mp.weixin.qq.com/s/w-aEwku3LnGdIqYxjq123A)
+- [千人万面奇妙自见：爱奇艺短视频推荐技术中多兴趣召回技术的演变](https://zhuanlan.zhihu.com/p/367305286)
 
 ##### 京东
 
@@ -131,6 +135,7 @@
 
 - [搜你所想，从Query意图识别到类目识别的演变](https://mp.weixin.qq.com/s/s8swIdAPw_VeAWnZTL1riA)
 - [搜索中的 Query 理解及应用](https://mp.weixin.qq.com/s/rZMtsbMuyGwcy2KU7mzZhQ)
+- [深度召回模型在QQ看点推荐中的应用实践](https://zhuanlan.zhihu.com/p/59354944)
 
 ##### Airbnb
 
