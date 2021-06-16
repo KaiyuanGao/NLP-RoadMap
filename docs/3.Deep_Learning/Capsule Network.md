@@ -8,6 +8,8 @@
 
 #### 参考
 
+- [揭开迷雾，来一顿美味的Capsule盛宴](https://kexue.fm/archives/4819)
+
 - [胶囊网络 (Capsule Network)](https://leovan.me/cn/2021/03/capsule-network/)
 - [浅析第一篇Capsule：Dynamic Routing Between Capsules](https://zhuanlan.zhihu.com/p/32156167)
 - [学习Hinton老爷子的胶囊网络，这有一篇历史回顾与深度解读](https://www.thepaper.cn/newsDetail_forward_8690116)

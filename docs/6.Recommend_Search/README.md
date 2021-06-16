@@ -34,9 +34,10 @@
 
 #### 多兴趣召回
 
-- PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest. [[论文](https://arxiv.org/abs/2007.03634)] [[笔记]()]
-- Multi-Interest Network with Dynamic Routing for Recommendation at Tmall. [[论文](https://arxiv.org/pdf/1904.08030.pdf)] [[笔记]()]
-- Controllable Multi-Interest Framework for Recommendation. [[论文](https://arxiv.org/pdf/1904.08030.pdf)] [[笔记]()]
+- PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest. [[论文](https://arxiv.org/abs/2007.03634)] [[笔记](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/docs/6.Recommend_Search/PinnerSage.md)]
+- Multi-Interest Network with Dynamic Routing for Recommendation at Tmall. [[论文](https://arxiv.org/pdf/1904.08030.pdf)] [[笔记](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/docs/6.Recommend_Search/MIND.md)]
+- Controllable Multi-Interest Framework for Recommendation. [[论文](https://arxiv.org/pdf/1904.08030.pdf)] [[笔记](https://github.com/KaiyuanGao/NLP-RoadMap/blob/master/docs/6.Recommend_Search/ComiRec.md)]
+- SDM: Sequential Deep Matching Model for Online Large-scale Recommender System. [[论文](https://arxiv.org/pdf/1904.08030.pdf)] [[笔记]()]
 
 ### 排序
 
@@ -95,24 +96,16 @@
 ##### 阿里
 
 - [阿里文娱深度语义搜索相关性探索](https://mp.weixin.qq.com/s/1aNd3dxwjCKUJACSq1uF-Q)
-
 - [阿里文娱搜索算法实践与思考](https://mp.weixin.qq.com/s/7hvYdOTnnw5pDDMx6N66Uw)
-
 - [优酷视频元素内容召回系统：多级多模态引擎探索](https://mp.weixin.qq.com/s/XylR3ZHQ_3b15mfcVqGgfg)
-
 - [阿里妈妈深度树匹配技术演进3.0：TDM->JTM->BSAT](https://mp.weixin.qq.com/s/Nd9vCggZ3RfWLMpZ9JRKdQ)
-
 - [阿里深度召回模型实践](https://mp.weixin.qq.com/s/hek-MglfIA4pSkLLLgKfYw)
-
 - [搜索技术：从阿里巴巴搜索业务中台到行业智能搜索云服务的实践](https://yqh.aliyun.com/live/detail/16105)
-
 - [神马搜索如何提升搜索的时效性？](https://mp.weixin.qq.com/s/WpITPvYmixMHa0ha0MgWVA)
-
 - [阿里定向广告新一代主模型：基于搜索的超长用户行为建模范式](https://mp.weixin.qq.com/s/xK6BQVvrqOh79qEP7gtEyA)
-
 - [电商搜索算法技术的演进](https://mp.weixin.qq.com/s/Nj4kVtn41bTyQ04Suc5A3A)
-
 - [阿里巴巴首次揭秘电商知识图谱AliCoCo！淘宝搜索原来这样玩！](https://mp.weixin.qq.com/s/GnEGHMoGJEBVBhhHljqAzA)
+- [漫谈深度学习时代点击率预估技术进展](https://www.infoq.cn/article/xa055tpfrpruy*0ubdcb)
 
 ##### 知乎
 
@@ -123,6 +116,7 @@
 
 - [爱奇艺深度语义表示学习的探索与实践](https://mp.weixin.qq.com/s/f524bPx0pq7qxXGjpa7WCQ)
 - [爱奇艺搜索排序模型迭代之路](https://mp.weixin.qq.com/s/w-aEwku3LnGdIqYxjq123A)
+- [如何提升链路目标一致性？爱奇艺短视频推荐之粗排模型优化历程](https://mp.weixin.qq.com/s/LZlskUK4dmOd5fLTZIATnQ)
 - [千人万面奇妙自见：爱奇艺短视频推荐技术中多兴趣召回技术的演变](https://zhuanlan.zhihu.com/p/367305286)
 
 ##### 京东

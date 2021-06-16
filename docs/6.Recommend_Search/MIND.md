@@ -47,3 +47,9 @@ $$
 \end{aligned}
 $$
 其中$p$是一个可调超参，当p趋向无穷大时，相当于一个hard attention，实验效果最好。
+
+#### 参考
+
+- [MIND作者分享视频](https://developer.aliyun.com/live/246509)
+- [MIND 召回](https://www.yuque.com/caserwin/dbbzw2/vsorgr)
+
