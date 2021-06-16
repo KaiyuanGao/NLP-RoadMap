@@ -117,7 +117,7 @@
 | [Recommender Systems Handbook 1st Edition](https://www.cse.iitk.ac.in/users/nsrivast/HCC/Recommender_systems_handbook.pdf) |      |
 | [Recommender Systems Handbook 2nd Edition](https://edyaaleh.files.wordpress.com/2016/02/recommendersystemshandbook.pdf) |      |
 | [张俊林：推荐系统技术演进趋势：从召回到排序再到重排](https://zhuanlan.zhihu.com/p/100019681) |      |
-|                                                              |      |
+| [SIGIR 2018：搜索和推荐中的深度匹配PPT]()                                              |      |
 |                                                              |      |
 |                                                              |      |
 
