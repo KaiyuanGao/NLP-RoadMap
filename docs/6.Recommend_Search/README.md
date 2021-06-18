@@ -130,6 +130,7 @@
 - [搜你所想，从Query意图识别到类目识别的演变](https://mp.weixin.qq.com/s/s8swIdAPw_VeAWnZTL1riA)
 - [搜索中的 Query 理解及应用](https://mp.weixin.qq.com/s/rZMtsbMuyGwcy2KU7mzZhQ)
 - [深度召回模型在QQ看点推荐中的应用实践](https://zhuanlan.zhihu.com/p/59354944)
+- [揭秘微信「看一看」 是如何为你推荐的](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649745580&idx=1&sn=572b483c59b7d17baadd80b2a8b5f4a1&chksm=bed37bd789a4f2c19ec79e453733800facbbb999414596275e13bee72a5a6561602b5f0682dc&mpshare=1&scene=23&srcid=&sharer_sharetime=1583492587473&sharer_shareid=cc983be31429dfbd5199d63f0d94b825#rd)
 
 ##### Airbnb
 
