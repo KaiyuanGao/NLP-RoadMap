@@ -89,7 +89,7 @@
 | [NewBeeNLP：BERT源码分析完整PDF](https://pan.baidu.com/s/1T9ZF053OS9ABa3r2dpHukA) | ec59 |
 | [EMNLP_2020_Tutorial__High_Performance_NLP](http://gabrielilharco.com/publications/EMNLP_2020_Tutorial__High_Performance_NLP.pdf) |      |
 | [南京大学：知识图谱融合方法](https://pan.baidu.com/s/1Ubi5ltkidkugN436xlmO9Q) | sm7b |
-| [复旦邱锡鹏：“语言+X”预训练模型：融合结构化知识和跨模态信息](https://pan.baidu.com/s/1f81xXe4ekC06eKWDbWov8A) | 67jr |
+| [复旦邱锡鹏：“语言+X”预训练模型：融合结构化知识和跨模态信息](https://pan.baidu.com/s/1f2giOAOtSC5WJolExzFpEw) | 0jkk |
 | [东北大学：中文综述文章列表（自然语言处理&机器学习）](https://github.com/NiuTrans/CNSurvey) |      |
 | [AI算法工程师手册--包含数学基础、机器学习、深度学习、计算机视觉和NLP等知识](https://link.zhihu.com/?target=http%3A//www.huaxiaozhuan.com/) |      |
 
